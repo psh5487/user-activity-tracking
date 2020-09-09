@@ -1,5 +1,5 @@
 # user-activity-tracking
-Naver Hackday - 사용자 동선 트래킹 툴 개발
+2019 Winter Naver Hackday - 사용자 동선 트래킹 툴 개발
 
 팀원 : 박소현, 박영우, 김수아
 
