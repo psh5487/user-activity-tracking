@@ -7,7 +7,7 @@
 쇼핑 사이트에서 활동 중인 사용자 로그를 수집하여, 사용자 동선을 표현하는 툴 만들기
 
 ## Stack
-### Front
+### Frontend
 - Javascript
 - React
 
