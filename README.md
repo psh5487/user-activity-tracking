@@ -13,6 +13,7 @@
 
 ### Backend
 - Spring Boot
+- JPA
 - MySQL
 
 ## 사용자 로그 수집
