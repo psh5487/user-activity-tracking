@@ -1,5 +1,7 @@
 # user-activity-tracking
-2019.11.21~22 Winter Naver Hackday - 사용자 동선 트래킹 툴 개발
+Winter Naver Hackday - 사용자 동선 트래킹 툴 개발
+
+일정 : 2019.11.21-22   
 
 팀원 : (멘티) 박소현, 박영우, 김수아 / (멘토님) 정성용 
 
