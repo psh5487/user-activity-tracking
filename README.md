@@ -1,5 +1,5 @@
 # user-activity-tracking
-Winter Naver Hackday - 사용자 동선 트래킹 툴 개발
+Winter Naver Hackday - 사용자 액션 트래킹 툴 개발
 
 일정 : 2019.11.21-22   
 
